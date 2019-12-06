@@ -61,5 +61,7 @@ Create new project node js
 		  --version  Show version number                                         [boolean]
 		  --help     Show help                                                   [boolean]
 + validator: 
-	npm install --save datalize			
+	npm install --save datalize		
++middleware thirt-app
+	npm install cookie-parser ; https://expressjs.com/en/resources/middleware.html	
 	
